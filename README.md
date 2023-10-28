@@ -30,16 +30,14 @@ Spend (Transaction data): Credit card spend for each customer
 Repayment: Credit card Payment done by the customer
 
 Following are some questions for a Consultant to understand the customer's spend & repayment behavior.
-1. In the above dataset,
-   
+1. In the above dataset, 
   a. In case the age is less than 18, replace it with the mean age values.
   
   b. In case the spend amount is more than the limit, replace it with 50% of that customer’s limit. (The customer’s limit provided in the acquisition table is the per transaction limit on his card)
   
   c. In case the repayment amount is more than the limit, replace the repayment with the limit.
 
-2. From the above dataset create the following summaries:
-   
+2. From the above dataset create the following summaries:  
   a. How many distinct customers exist?
   
   b. How many distinct categories exist?
@@ -58,11 +56,9 @@ Following are some questions for a Consultant to understand the customer's spend
   
   i. Who are the top 10 customers in terms of repayment?
 
-
 3. Calculate the city-wise spending on each product on a yearly basis. Also, include a graphical representation for the same.
 
-4. Create graphs for
-   
+4. Create graphs for 
   a. Monthly comparison of total spends, city-wise
 
   b. Comparison of yearly spend on air tickets
