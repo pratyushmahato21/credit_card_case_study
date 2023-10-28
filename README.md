@@ -60,14 +60,15 @@ Following are some questions for a Consultant to understand the customer's spend
 
 3. Calculate the city-wise spending on each product on a yearly basis. Also, include a graphical representation for the same.
 
-4. Create graphs for 
+4. Create graphs for
+    
    a. Monthly comparison of total spends, city-wise
 
    b. Comparison of yearly spend on air tickets
   
    c. Comparison of monthly spending for each product (look for any seasonality that exists in terms of spend) 
 
-5. Write user-defined PYTHON function to perform the following analysis:
+6. Write user-defined PYTHON function to perform the following analysis:
    
     You need to find the top 10 customers for each city in terms of their repayment amount by different products and by different time periods i.e. year or month. The user should be able to specify the product (Gold/Silver/Platinum) and time period (yearly or monthly) and the function should automatically take these inputs while identifying the top 10 customers
 
