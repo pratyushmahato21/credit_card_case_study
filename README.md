@@ -69,5 +69,5 @@ Following are some questions for a Consultant to understand the customer's spend
 
 5. Write user-defined PYTHON function to perform the following analysis:
    
-You need to find the top 10 customers for each city in terms of their repayment amount by different products and by different time periods i.e. year or month. The user should be able to specify the product (Gold/Silver/Platinum) and time period (yearly or monthly) and the function should automatically take these inputs while identifying the top 10 customers
+    You need to find the top 10 customers for each city in terms of their repayment amount by different products and by different time periods i.e. year or month. The user should be able to specify the product (Gold/Silver/Platinum) and time period (yearly or monthly) and the function should automatically take these inputs while identifying the top 10 customers
 
