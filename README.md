@@ -34,6 +34,7 @@ Repayment: Credit card Payment done by customer
 
 
 Following are some questions to a Consultant to understand the customers spend & repayment behavior.
+
 1. In the above dataset,
    
   a. In case age is less than 18, replace it with mean of age values.
