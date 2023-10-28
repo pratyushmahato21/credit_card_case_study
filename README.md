@@ -24,17 +24,12 @@ The ability to detect suspicious activity and patterns in data can also assess w
 # BUSINESS PROBLEM:
 In order to effectively produce quality decisions in the modern credit card industry, knowledge must be gained through effective data analysis and modeling. Through the use of dynamic data-driven decision-making tools and procedures, information can be gathered to successfully evaluate all aspects of credit card operations. PSPD Bank has banking operations in more than 50 countries across the globe. Mr. Jim Watson, CEO, wants to evaluate areas of bankruptcy, fraud, and collections, and respond to customer requests for help with proactive offers and services.
 
-
-# DATA AVAILABLE
-
 # This book has the following sheets:
 Customer Acquisition: At the time of card issuing, the company maintains the details of customers.
 Spend (Transaction data): Credit card spend for each customer
 Repayment: Credit card Payment done by the customer
 
-
 Following are some questions for a Consultant to understand the customer's spend & repayment behavior.
-
 1. In the above dataset,
    
   a. In case the age is less than 18, replace it with the mean age values.
